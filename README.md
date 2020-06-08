@@ -7,4 +7,4 @@ This repo is intended for demostration purposes and it contains:
 
 To launch the repo:
 - one-time in [GESIS Binder](https://notebooks.gesis.org/binder/): [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/bitnik/covid19_in_binder/master?filepath=analysis.ipynb)
-- persistently in [GESIS Hub](https://notebooks.gesis.org): [![Binder](https://notebooks.gesis.org/services/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/bitnik/covid19_in_binder/master?filepath=analysis.ipynb)
+- persistently in [GESIS Hub](https://notebooks.gesis.org): [![Binder](https://notebooks.gesis.org/services/binder/badge_logo.svg)](https://notebooks.gesis.org/services/binder/v2/gh/bitnik/covid19_in_binder/master?filepath=analysis.ipynb)
