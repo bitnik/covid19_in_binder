@@ -1,7 +1,7 @@
 # COVID-19 in [mybinder.org federation](https://mybinder.org/)
 
 This repo is intended for demostration purposes and it contains:
-- [data_collection.ipynb](/data_collection.ipynb): collects all launches, which contains "corona" or "covid" in `spec`, from [Binder Gallery API](https://notebooks.gesis.org/gallery/api/v1.0/) and writes them into a csv file
+- [data_collection.ipynb](/data_collection.ipynb): collects all launches, which contains "corona" or "covid" in `spec` and writes them into a csv file
 - [covid_binder_launches_2019_12_01_2020_09_10.csv](/covid_binder_launches_2019_12_01_2020_09_10.csv): output of `data_collection.ipynb` for the time range from 01.12.2019 to 09.10.2020 
 - [analysis.ipynb](/analysis.ipynb): some analysis on the output csv file
 
